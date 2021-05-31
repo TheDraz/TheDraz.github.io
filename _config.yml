@@ -58,9 +58,6 @@ plugins:
 author:
   bio    : "I'm going to showcase my developed games here"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TheDr4z"
