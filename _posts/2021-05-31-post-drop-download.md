@@ -7,5 +7,3 @@ link: https://play.google.com/store/apps/details?id=com.Draz.Drop
 ---
 
 You can download **Drop** now on Google Play
-
-Some [link](#) can also be shown.
