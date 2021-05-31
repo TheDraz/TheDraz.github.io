@@ -1,5 +1,5 @@
 ---
-title: "Donr't Freeze, Prominence!"
+title: "Don't Freeze, Prominence!"
 categories:
   - Game
 tags:
